@@ -1,2 +1,2 @@
-# 294DS_stats
+# PulpAndPaper
 Repositório de arquivos do trabalho.
