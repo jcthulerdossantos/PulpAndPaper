@@ -1,0 +1,5 @@
+CALL %systemdrive%%homepath%\my-venv\Scripts\activate.bat
+python C:\Users\jtsantos\Desktop\RDQ_MB5.py runserver
+
+----------------------------------------------------
+Lembrar que no computador do trabalho o python está instalado em ambiente virtual
