@@ -1,4 +1,3 @@
-PulpAndPaper
 This repository contains code and artifacts developed during projects in the pulp and paper industry, focused on data analysis, process monitoring, and machine learning. The contents are organized as follows:
 
 📊 1. Pulp Morphology – Correlation & Data Visualization
